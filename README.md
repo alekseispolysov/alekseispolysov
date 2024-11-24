@@ -1,7 +1,7 @@
 ## Hi there 👋
-💬 Hi, I'm Aleks! I love programming because it offers endless opportunities to learn and grow.
-🔭 I’m currently working on a C++ Star Game Strategy project and a Flutter Budget App for my phone.
-⚡ Fun fact: I studied C# in school, but explored Python during my free time. Now, I'm diving into C++ and other exciting journeys!
+- 💬 Hi, I'm Aleks! I love programming because it offers endless opportunities to learn and grow.
+- 🔭 I’m currently working on a C++ Star Game Strategy project and a Flutter Budget App for my phone.
+- ⚡ Fun fact: I studied C# in school, but explored Python during my free time. Now, I'm diving into C++ and other exciting journeys!
 
 <!--
 **alekseispolysov/alekseispolysov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
