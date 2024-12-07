@@ -1,5 +1,5 @@
 ## Hi there 👋
-I like programming and I know that this is something I am strong at. I am currently interested in C++ and Flutter (Dart) builidng budget app and Star strategy game. Also have experience with Python, React and C#, building my Minecraft server and website for it. 
+I like programming and I know that this is something I am strong at. I am currently interested in C++, builidng Star strategy game. Also have experience with Python, React and C#, building my Minecraft server and website for it. 
 
 I am currently looking for a programmer position in these technologies. If you are looking for someone like that, I would be happy to connect with you!
 
